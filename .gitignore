@@ -1,0 +1,7 @@
+solr-8.2.0
+.ipynb_checkpoints
+.vscode
+__pycache__
+data
+models
+bert_qa_vCPU-sklearn.joblibmcqg3h3e.tmp
